@@ -1,0 +1,21 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe>
+    <infNFe>
+      <ide>
+        <nNF>12345</nNF>
+      </ide>
+
+      <emit>
+        <CNPJ>12345678000199</CNPJ>
+        <xNome>Empresa Teste LTDA</xNome>
+      </emit>
+
+      <total>
+        <ICMSTot>
+          <vNF>1500.50</vNF>
+        </ICMSTot>
+      </total>
+
+    </infNFe>
+  </NFe>
+</nfeProc>
