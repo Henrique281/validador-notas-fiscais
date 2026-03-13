@@ -1,0 +1,15 @@
+# ambiente virtual
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# pasta do PyCharm
+.idea/
+
+# arquivos do sistema
+.DS_Store
+
+# resultados gerados
+resultado/
